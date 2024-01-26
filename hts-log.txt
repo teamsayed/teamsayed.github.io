@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Jan 2024 10:29:09 at http://localhost:8080/t-sayed/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost:8080/t-sayed/ -O1 "C:\My Web Sites\teamsayed" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:46:13	Error: 	"Method Not Allowed" (405) at link localhost:8080/t-sayed/xmlrpc.php (from localhost:8080/t-sayed/)
+10:54:45	Warning: 	Retry after error -4 (Incorrect length (6111724 Bytes, 8997110 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-1-2.mp4 (from localhost:8080/t-sayed/)
+10:54:45	Warning: 	Retry after error -4 (Incorrect length (8748987 Bytes, 10895839 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-2-1.mp4 (from localhost:8080/t-sayed/)
+10:54:45	Warning: 	Retry after error -4 (Incorrect length (6112178 Bytes, 8056624 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-3-1.mov (from localhost:8080/t-sayed/)
+10:54:45	Warning: 	Retry after error -4 (Incorrect length (871879 Bytes, 4410988 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-4-1.mp4 (from localhost:8080/t-sayed/)
+10:57:07	Warning: 	Retry after error -4 (Incorrect length (3491055 Bytes, 5951226 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-5-1.mov (from localhost:8080/t-sayed/)
+10:58:06	Warning: 	Moved Permanently for localhost:8080/t-sayed/?p=112
+10:58:06	Warning: 	File has moved from localhost:8080/t-sayed/?p=112 to http://localhost:8080/t-sayed/about/
+10:58:06	Warning: 	Moved Permanently for localhost:8080/t-sayed/?p=623
+10:58:06	Warning: 	File has moved from localhost:8080/t-sayed/?p=623 to http://localhost:8080/t-sayed/packages/
+10:58:06	Warning: 	Moved Permanently for localhost:8080/t-sayed/?p=580
+10:58:06	Warning: 	File has moved from localhost:8080/t-sayed/?p=580 to http://localhost:8080/t-sayed/transformations/
+10:58:06	Warning: 	Moved Permanently for localhost:8080/t-sayed/?p=20
+10:58:06	Warning: 	File has moved from localhost:8080/t-sayed/?p=20 to http://localhost:8080/t-sayed/contact-us/
+10:58:06	Warning: 	Retry after error -4 (Incorrect length (6982048 Bytes, 8997110 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-1-2.mp4 (from localhost:8080/t-sayed/)
+11:00:23	Warning: 	Retry after error -4 (Incorrect length (1742203 Bytes, 4410988 expected)) at link localhost:8080/t-sayed/wp-content/uploads/2024/01/review-4-1.mp4 (from localhost:8080/t-sayed/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 minutes 36 seconds : 213 links scanned, 200 files written (55411049 bytes overall) [55490506 bytes received at 26729 bytes/sec], 2.0 requests per connection
+(1 errors, 15 warnings, 0 messages)
